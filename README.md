@@ -108,7 +108,7 @@ var connectionString = "Server=localhost,1466;Database={Insert DB Name here};Use
 
 ### SQL Server Management Studio
 
-If you want to use [SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssm) 
+If you want to use [SSMS](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) 
 
 1. Download or update it
 
